@@ -47,14 +47,12 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 
-<!--
 ___
 ## __Github stats__
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=X-rayton&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-rayton&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
 </div>
--->
 
 ___
 ## __Codewars__
